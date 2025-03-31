@@ -1,36 +1,27 @@
-# Neuroscience-Coding-Lab 🧠💻
-Welcome to Neuroscience-Coding-Lab, my personal space for experimenting with computational neuroscience concepts! This is where I explore neuron models, simulations, and other brain-inspired coding projects as I deepen my understanding of neuroscience and programming.
+# Neuroscience Coding Lab 🧠💻
 
-## 🚀 What’s Inside?
+Welcome to **Neuroscience Coding Lab**, a personal space for experimenting with computational neuroscience concepts. This repository is a collection of neuron models, simulations, and brain-inspired coding projects as I deepen my understanding of neuroscience and programming.
 
-🔬 Simulations of basic neuron models (starting with the Leaky Integrate-and-Fire neuron!)
+## What’s Inside? 🚀
 
-🧩 Small experiments with Python, NumPy, Matplotlib, and more
+- **Potassium Equilibrium Model**: A model simulating the potassium equilibrium potential and its impact on neuronal activity.
+  
+- **Leaky Integrate-and-Fire Neuron**: A basic model to understand how neurons integrate inputs and fire once a threshold is reached.
 
-📖 Notes, insights, and learning progress as I develop computational neuroscience skills
+- Small experiments using Python, NumPy, Matplotlib, and more.
 
-## 🛠️ Work in Progress
+- Notes, insights, and learning progress as I refine my computational neuroscience skills.
 
-This lab is always evolving! I’m using it to practice, tinker, and refine my coding skills while applying them to neuroscience concepts. Expect frequent updates, experimental code, and maybe even some bugs! 🐛
+## Work in Progress 🛠️
 
-## 💡 Why This Exists
+This lab is always evolving! As I continue to learn, tinker, and experiment, I plan to:
 
-I’m on a journey to merge my passion for neuroscience with computation. This repo isn’t about perfect code—it’s about learning, experimenting, and growing as I explore the intersection of brain science and programming.
+- Implement more neuron models and network simulations.
 
+- Gradually build more code from scratch as I understand it better.
 
-## 📌 Leaky Integrate-and-Fire Neuron
+- Explore interactive visualizations for brain simulations.
 
-The first project in this repository is a basic Leaky Integrate-and-Fire (LIF) neuron model. Since I am still in the early stages of my programming journey, this implementation is not built from scratch, but rather adapted from established resources and guided exercises. My goal was to understand how the model works, modify key parameters, and visualize its behavior using Python and Matplotlib.
-While I followed structured guidance for the initial code, I am actively working toward deeper independence in coding, analysis, and eventually developing my own models.
+## Why This Exists 💡
 
-## 🚀 Future Plans
-
-As I advance in my studies, I plan to:
-
-Implement more neuron models and network simulations
-
-Gradually write more code from scratch as my understanding improves
-
-Explore interactive visualizations for brain simulations
-
-
+I’m merging my passion for neuroscience with computational skills. This repository is about learning, experimenting, and growing as I explore the intersection of brain science and programming.
