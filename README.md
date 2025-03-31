@@ -8,20 +8,10 @@ Welcome to **Neuroscience Coding Lab**, a personal space for experimenting with 
   
 - **Leaky Integrate-and-Fire Neuron**: A basic model to understand how neurons integrate inputs and fire once a threshold is reached.
 
-- Small experiments using Python, NumPy, Matplotlib, and more.
-
-- Notes, insights, and learning progress as I refine my computational neuroscience skills.
-
-## Work in Progress 🛠️
-
-This lab is always evolving! As I continue to learn, tinker, and experiment, I plan to:
+## Future Plans 🛠️
 
 - Implement more neuron models and network simulations.
 
 - Gradually build more code from scratch as I understand it better.
 
 - Explore interactive visualizations for brain simulations.
-
-## Why This Exists 💡
-
-I’m merging my passion for neuroscience with computational skills. This repository is about learning, experimenting, and growing as I explore the intersection of brain science and programming.
