@@ -1,6 +1,6 @@
 # Neuroscience Coding Lab 🧠💻
 
-Welcome to **Neuroscience Coding Lab**, a personal space for experimenting with computational neuroscience concepts. This repository is a collection of neuron models, simulations, and brain-inspired coding projects as I deepen my understanding of neuroscience and programming.
+Welcome to **Neuroscience Coding Lab**, a personal space for experimenting with computational neuroscience concepts. 
 
 ## What’s Inside? 🚀
 
