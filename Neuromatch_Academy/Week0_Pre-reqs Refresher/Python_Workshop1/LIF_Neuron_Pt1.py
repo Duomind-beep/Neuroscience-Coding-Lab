@@ -17,7 +17,7 @@ np.random.seed(2020)
 
 # Initialize step_end, n, t_range, v and i
 step_end = int(t_max / dt)
-n = 50
+n = 50  #neurons
 t_range = np.linspace(0, t_max, num=step_end)
 v_n = el * np.ones([n, step_end])
 i = i_mean * (1 + 0.1 * (t_max / dt)**(0.5) * (2 * np.random.random([n, step_end]) - 1))
